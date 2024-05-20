@@ -1,0 +1,969 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\clases\\bl\\libros\\librosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bl\\libros\\librosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\clases\\bl\\autores\\autoresbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bl\\autores\\autoresbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\clases\\dal\\autores\\autoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\dal\\autores\\autoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\utilidades\\repositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\utilidades\\repositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\clases\\bl\\librosautores\\librosautoresbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bl\\librosautores\\librosautoresbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\controllers\\libros\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\controllers\\libros\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\utilidades\\procedimientogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\utilidades\\procedimientogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\clases\\dal\\libros\\librosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\dal\\libros\\librosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\utilidades\\accesocomunbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\utilidades\\accesocomunbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\utilidades\\auxiliares\\mapeador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\utilidades\\auxiliares\\mapeador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\clases\\dal\\librosautores\\librosautoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\dal\\librosautores\\librosautoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\controllers\\librosautores\\librosautorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\controllers\\librosautores\\librosautorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\acciones\\librosautores\\ilibrosautoresaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\acciones\\librosautores\\ilibrosautoresaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\utilidades\\auxiliares\\ejecucion\\utilitariosejecucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\utilidades\\auxiliares\\ejecucion\\utilitariosejecucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\utilidades\\accesocomundal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\utilidades\\accesocomundal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\clases\\bo\\consulta\\librosautoresconsultabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bo\\consulta\\librosautoresconsultabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\acciones\\autores\\iautoresaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\acciones\\autores\\iautoresaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\mocks\\mapeadores\\autores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|solutionrelative:5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\mocks\\mapeadores\\autores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\librosautoresbltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|solutionrelative:5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\librosautoresbltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\controllers\\autores\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\controllers\\autores\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\proyecto.negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\proyecto.negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\clases\\bo\\repositorio\\librosbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bo\\repositorio\\librosbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\5. pruebas unitarias\\proyecto.pruebasunitarias\\proyecto.pruebasunitarias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|solutionrelative:5. pruebas unitarias\\proyecto.pruebasunitarias\\proyecto.pruebasunitarias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\models\\repositorio\\librosautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\repositorio\\librosautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\ilibrosautoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\ilibrosautoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\clases\\do\\repositorio\\librosdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\do\\repositorio\\librosdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\dto\\consulta\\ilibrosautoresconsultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\dto\\consulta\\ilibrosautoresconsultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\clases\\do\\repositorio\\librosautoresdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\do\\repositorio\\librosautoresdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\ilibrosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\ilibrosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\iautoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\iautoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\mocks\\mapeadores\\autoreslibrosesperado.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|solutionrelative:5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\mocks\\mapeadores\\autoreslibrosesperado.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\mocks\\mapeadores\\libros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2589C74B-7599-4C96-93EA-52D23379C859}|5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj|solutionrelative:5. pruebas unitarias\\proyecto.pruebasunitarias\\negocio\\mocks\\mapeadores\\libros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\clases\\bo\\repositorio\\librosautoresbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bo\\repositorio\\librosautoresbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\contexto\\repositorio\\librosautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\contexto\\repositorio\\librosautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\contexto\\contextoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\contexto\\contextoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\contexto\\contextoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\contexto\\contextoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\clases\\do\\consulta\\librosautoresconsultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\do\\consulta\\librosautoresconsultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\models\\consulta\\librosautoresconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\consulta\\librosautoresconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\models\\repositorio\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\repositorio\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\models\\repositorio\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\repositorio\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\utilidades\\auxiliares\\excepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\utilidades\\auxiliares\\excepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\acciones\\libros\\ilibrosaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\acciones\\libros\\ilibrosaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\proyecto.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\proyecto.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\proyecto.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\proyecto.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\2. negocio\\proyecto.negocio\\clases\\bo\\repositorio\\autoresbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bo\\repositorio\\autoresbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\clases\\do\\repositorio\\autoresdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\do\\repositorio\\autoresdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\AppData\\Local\\SourceServer\\803916b24f06402b3099b2c7f355b23d6216b1aaba513fe22985f54b31f4666a\\DbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\contexto\\repositorio\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\contexto\\repositorio\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\contexto\\repositorio\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\contexto\\repositorio\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\3. datos\\proyecto.datos\\utilidades\\excepcioncontrolada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\utilidades\\excepcioncontrolada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\4. interfaces comunes\\proyecto.ic\\utilidades\\genericos\\validarmodeloattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\utilidades\\genericos\\validarmodeloattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\biblioteca\\api\\proyecto\\1. servicios\\proyecto.api\\proyecto.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\proyecto.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\Desktop\\plantilla\\v2\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Departamento\\DepartamentoDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoresBL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Autores\\AutoresBL.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Autores\\AutoresBL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Autores\\AutoresBL.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Autores\\AutoresBL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:23:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioGenerico.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\RepositorioGenerico.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Utilidades\\RepositorioGenerico.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\RepositorioGenerico.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Utilidades\\RepositorioGenerico.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAApwEABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:58:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoresDAL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Autores\\AutoresDAL.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\Autores\\AutoresDAL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Autores\\AutoresDAL.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\Autores\\AutoresDAL.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAQwIUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:40:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosAutoresBL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\LibrosAutores\\LibrosAutoresBL.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\LibrosAutores\\LibrosAutoresBL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\LibrosAutores\\LibrosAutoresBL.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\LibrosAutores\\LibrosAutoresBL.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAtwO0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:25:25.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibrosAutoresDAL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\LibrosAutores\\LibrosAutoresDAL.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\LibrosAutores\\LibrosAutoresDAL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\LibrosAutores\\LibrosAutoresDAL.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\LibrosAutores\\LibrosAutoresDAL.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwIsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:04:21.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILibrosAutoresAccion.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Acciones\\LibrosAutores\\ILibrosAutoresAccion.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\Acciones\\LibrosAutores\\ILibrosAutoresAccion.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Acciones\\LibrosAutores\\ILibrosAutoresAccion.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\Acciones\\LibrosAutores\\ILibrosAutoresAccion.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA7wDcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:36:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAutoresDTO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IAutoresDTO.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IAutoresDTO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IAutoresDTO.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IAutoresDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:32:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LibrosAutores.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\LibrosAutores.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\LibrosAutores.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\LibrosAutores.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\LibrosAutores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:31:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibrosAutoresBLTests.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\LibrosAutoresBLTests.cs",
+              "RelativeDocumentMoniker": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\LibrosAutoresBLTests.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\LibrosAutoresBLTests.cs",
+              "RelativeToolTip": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\LibrosAutoresBLTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:04:43.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mapeador.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Mapeador.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Mapeador.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Mapeador.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Mapeador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:14:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccesoComunBL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswI4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:52:38.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Controllers\\Libros\\LibrosController.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Controllers\\Libros\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Controllers\\Libros\\LibrosController.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Controllers\\Libros\\LibrosController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwF0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:25:34.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibrosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Libros\\LibrosDAL.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\Libros\\LibrosDAL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Libros\\LibrosDAL.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\Libros\\LibrosDAL.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAApwDgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:58:03.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosBL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Libros\\LibrosBL.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Libros\\LibrosBL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Libros\\LibrosBL.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Libros\\LibrosBL.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAYwLIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:24:03.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcedimientoGenerico.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:22:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibrosAutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Controllers\\LibrosAutores\\LibrosAutoresController.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Controllers\\LibrosAutores\\LibrosAutoresController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Controllers\\LibrosAutores\\LibrosAutoresController.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Controllers\\LibrosAutores\\LibrosAutoresController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowHwAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:25:30.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccesoComunDAL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\AccesoComunDAL.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Utilidades\\AccesoComunDAL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\AccesoComunDAL.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Utilidades\\AccesoComunDAL.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwFAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:31:50.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAutoresAccion.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Autores\\IAutoresAccion.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Autores\\IAutoresAccion.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Autores\\IAutoresAccion.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Autores\\IAutoresAccion.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAhwE0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:11:51.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UtilitariosEjecucion.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Ejecucion\\UtilitariosEjecucion.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Ejecucion\\UtilitariosEjecucion.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Ejecucion\\UtilitariosEjecucion.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Ejecucion\\UtilitariosEjecucion.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAA1wIMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:33:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Proyecto.Negocio",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T01:04:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LibrosBO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosBO.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosBO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosBO.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosBO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:31:46.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LibrosAutoresDO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosAutoresDO.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosAutoresDO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosAutoresDO.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosAutoresDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:59:33.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibrosAutoresConsultaBO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Consulta\\LibrosAutoresConsultaBO.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Consulta\\LibrosAutoresConsultaBO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Consulta\\LibrosAutoresConsultaBO.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Consulta\\LibrosAutoresConsultaBO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:05:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "autores.json",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autores.json",
+              "RelativeDocumentMoniker": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autores.json",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autores.json",
+              "RelativeToolTip": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autores.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T00:15:49.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ILibrosAutoresConsultaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Consulta\\ILibrosAutoresConsultaDTO.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Consulta\\ILibrosAutoresConsultaDTO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Consulta\\ILibrosAutoresConsultaDTO.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Consulta\\ILibrosAutoresConsultaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:28:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Proyecto.PruebasUnitarias.csproj",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj",
+              "RelativeDocumentMoniker": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj",
+              "RelativeToolTip": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Proyecto.PruebasUnitarias.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T18:53:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Controllers\\Autores\\AutoresController.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Controllers\\Autores\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Controllers\\Autores\\AutoresController.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Controllers\\Autores\\AutoresController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:23:52.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILibrosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosDTO.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosDTO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosDTO.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:32:11.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILibrosAutoresDTO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosAutoresDTO.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosAutoresDTO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosAutoresDTO.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\ILibrosAutoresDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:32:05.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LibrosDO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosDO.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosDO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosDO.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\LibrosDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:45:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "autoresLibrosEsperado.json",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autoresLibrosEsperado.json",
+              "RelativeDocumentMoniker": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autoresLibrosEsperado.json",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autoresLibrosEsperado.json",
+              "RelativeToolTip": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\autoresLibrosEsperado.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T00:16:25.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ContextoProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwC0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:31:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "libros.json",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\libros.json",
+              "RelativeDocumentMoniker": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\libros.json",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\libros.json",
+              "RelativeToolTip": "5. Pruebas Unitarias\\Proyecto.PruebasUnitarias\\Negocio\\Mocks\\Mapeadores\\libros.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T00:16:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ContextoParcial.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:31:54.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LibrosAutores.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\LibrosAutores.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\LibrosAutores.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\LibrosAutores.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\LibrosAutores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:22:07.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LibrosAutoresBO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosAutoresBO.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosAutoresBO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosAutoresBO.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\LibrosAutoresBO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:31:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\Autores.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\Autores.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\Autores.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\Autores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:31:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\Libros.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\Libros.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\Libros.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\Libros.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAEwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:30:42.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LibrosAutoresConsultaDO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Consulta\\LibrosAutoresConsultaDO.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Consulta\\LibrosAutoresConsultaDO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Consulta\\LibrosAutoresConsultaDO.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Consulta\\LibrosAutoresConsultaDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:19:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LibrosAutoresConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Consulta\\LibrosAutoresConsulta.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Consulta\\LibrosAutoresConsulta.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Models\\Consulta\\LibrosAutoresConsulta.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Consulta\\LibrosAutoresConsulta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:27:52.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Excepcion.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Excepcion.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Excepcion.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Excepcion.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Auxiliares\\Excepcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:28:26.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ILibrosAccion.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Libros\\ILibrosAccion.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Libros\\ILibrosAccion.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Libros\\ILibrosAccion.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\Acciones\\Libros\\ILibrosAccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:16:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Startup.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Startup.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:44:53.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Proyecto.Datos",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T22:01:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\AppData\\Local\\SourceServer\\803916b24f06402b3099b2c7f355b23d6216b1aaba513fe22985f54b31f4666a\\DbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\803916b24f06402b3099b2c7f355b23d6216b1aaba513fe22985f54b31f4666a\\DbContext.cs",
+              "ToolTip": "C:\\Users\\diego\\AppData\\Local\\SourceServer\\803916b24f06402b3099b2c7f355b23d6216b1aaba513fe22985f54b31f4666a\\DbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\803916b24f06402b3099b2c7f355b23d6216b1aaba513fe22985f54b31f4666a\\DbContext.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAqwKcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:54:27.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ExcepcionControlada.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\ExcepcionControlada.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Utilidades\\ExcepcionControlada.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Utilidades\\ExcepcionControlada.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Utilidades\\ExcepcionControlada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:58:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Autores.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Autores.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Autores.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Autores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:17:51.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AutoresBO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\AutoresBO.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\AutoresBO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\AutoresBO.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BO\\Repositorio\\AutoresBO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:31:27.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Proyecto.API",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T21:39:21.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AutoresDO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\AutoresDO.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\AutoresDO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\AutoresDO.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DO\\Repositorio\\AutoresDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:33:34.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Libros.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Libros.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Libros.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Contexto\\Repositorio\\Libros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:21:50.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DepartamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\plantilla\\v2\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Departamento\\DepartamentoDAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\plantilla\\v2\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Departamento\\DepartamentoDAL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\plantilla\\v2\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Departamento\\DepartamentoDAL.cs",
+              "RelativeToolTip": "..\\..\\..\\plantilla\\v2\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Departamento\\DepartamentoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:49:23.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\appsettings.json",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\appsettings.json",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T16:44:32.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Program.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Program.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:44:30.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ValidarModeloAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Genericos\\ValidarModeloAttribute.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Genericos\\ValidarModeloAttribute.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Genericos\\ValidarModeloAttribute.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\Utilidades\\Genericos\\ValidarModeloAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:26:38.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Proyecto.API",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Biblioteca\\API\\Proyecto\\1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Proyecto.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T16:21:40.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

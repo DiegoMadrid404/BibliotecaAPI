@@ -1,0 +1,388 @@
+[
+  {
+    "ContainingType": "Proyecto.API.Controllers.AutoresController",
+    "Method": "ConsultarAutoresFiltro",
+    "RelativePath": "api/Autores/ConsultarAutoresFiltro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autores",
+        "Type": "Proyecto.API.Models.Repositorio.Autores",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Autores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.AutoresController",
+    "Method": "ConsultarListaAutores",
+    "RelativePath": "api/Autores/ConsultarListaAutores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Autores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.AutoresController",
+    "Method": "EditarAutores",
+    "RelativePath": "api/Autores/EditarAutores",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autores",
+        "Type": "Proyecto.API.Models.Repositorio.Autores",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Autores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.AutoresController",
+    "Method": "EliminarAutores",
+    "RelativePath": "api/Autores/EliminarAutores",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAutor",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Autores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.AutoresController",
+    "Method": "GuardarAutores",
+    "RelativePath": "api/Autores/GuardarAutores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autores",
+        "Type": "Proyecto.API.Models.Repositorio.Autores",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Autores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosController",
+    "Method": "ConsultarLibrosFiltro",
+    "RelativePath": "api/Libros/ConsultarLibrosLlave",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "libros",
+        "Type": "Proyecto.API.Models.Repositorio.Libros",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Libros, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosController",
+    "Method": "ConsultarListaLibros",
+    "RelativePath": "api/Libros/ConsultarListaLibros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Libros, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosController",
+    "Method": "EditarLibros",
+    "RelativePath": "api/Libros/EditarLibros",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "libros",
+        "Type": "Proyecto.API.Models.Repositorio.Libros",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Libros, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosController",
+    "Method": "EliminarLibros",
+    "RelativePath": "api/Libros/EliminarLibros",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLibro",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Libros, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosController",
+    "Method": "GuardarLibros",
+    "RelativePath": "api/Libros/GuardarLibros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "libros",
+        "Type": "Proyecto.API.Models.Repositorio.Libros",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.Libros, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosAutoresController",
+    "Method": "ConsultarLibrosAutoresLinq",
+    "RelativePath": "api/LibrosAutores/ConsultarLibrosAutoresLinq",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.LibrosAutoresConsulta, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosAutoresController",
+    "Method": "ConsultarLibrosAutoresProcedimiento",
+    "RelativePath": "api/LibrosAutores/ConsultarLibrosAutoresProcedimiento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.LibrosAutoresConsulta, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosAutoresController",
+    "Method": "ConsultarListaLibrosAutores",
+    "RelativePath": "api/LibrosAutores/ConsultarListaLibrosAutores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.LibrosAutores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosAutoresController",
+    "Method": "EditarLibrosAutores",
+    "RelativePath": "api/LibrosAutores/EditarLibrosAutores",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "librosAutores",
+        "Type": "Proyecto.API.Models.Repositorio.LibrosAutores",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.LibrosAutores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosAutoresController",
+    "Method": "EliminarLibrosAutores",
+    "RelativePath": "api/LibrosAutores/EliminarLibrosAutores",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLibroAutor",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.LibrosAutores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Proyecto.API.Controllers.LibrosAutoresController",
+    "Method": "GuardarLibrosAutores",
+    "RelativePath": "api/LibrosAutores/GuardarLibrosAutores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "librosAutores",
+        "Type": "Proyecto.API.Models.Repositorio.LibrosAutores",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Proyecto.IC.Utilidades.Genericos.Respuesta\u00601[[Proyecto.API.Models.Repositorio.LibrosAutores, Proyecto.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

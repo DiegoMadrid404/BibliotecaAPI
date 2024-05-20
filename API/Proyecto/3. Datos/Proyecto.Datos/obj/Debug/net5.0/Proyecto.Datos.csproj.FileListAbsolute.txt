@@ -1,0 +1,91 @@
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\refint\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\ref\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\refint\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\3. Datos\Proyecto.Datos\obj\Debug\net5.0\ref\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\refint\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\ref\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\refint\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.deps.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.B335D156.Up2Date
+C:\Users\diego\Desktop\Coink\v3\Proyecto\3. Datos\Proyecto.Datos\obj\Debug\net5.0\ref\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.deps.json
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.B335D156.Up2Date
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\refint\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\ref\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\Coink\API\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.sourcelink.json
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.deps.json
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.AssemblyInfo.cs
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.B335D156.Up2Date
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\refint\Proyecto.Datos.dll
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\API - copia\3. Datos\Proyecto.Datos\obj\Debug\net5.0\ref\Proyecto.Datos.dll

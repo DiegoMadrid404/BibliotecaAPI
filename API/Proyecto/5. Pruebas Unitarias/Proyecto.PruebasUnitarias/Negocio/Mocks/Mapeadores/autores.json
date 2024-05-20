@@ -1,0 +1,16 @@
+[
+  {
+    "AutorID": "0372923A-2C22-4035-B494-02E43213CECB",
+    "Nombre": "Gabriel",
+    "Apellido": "García Márquez",
+    "FechaNacimiento": "1927-03-06",
+    "Nacionalidad": "Colombiano"
+  },
+  {
+    "AutorID": "0D7C69ED-F55B-447F-B91A-5807F3151C55",
+    "Nombre": "Isabel",
+    "Apellido": "Allende",
+    "FechaNacimiento": "1942-08-02",
+    "Nacionalidad": "Chilena"
+  }
+]

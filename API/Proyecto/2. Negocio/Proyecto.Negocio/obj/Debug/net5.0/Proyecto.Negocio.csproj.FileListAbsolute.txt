@@ -1,0 +1,103 @@
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\refint\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\ref\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\refint\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\ref\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\refint\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\ref\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\refint\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.deps.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.50F1DFDD.Up2Date
+C:\Users\diego\Desktop\Coink\v3\Proyecto\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\ref\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.deps.json
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.50F1DFDD.Up2Date
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\refint\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\ref\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\Coink\API\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.sourcelink.json
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.deps.json
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.AssemblyInfo.cs
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.50F1DFDD.Up2Date
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\refint\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\API - copia\2. Negocio\Proyecto.Negocio\obj\Debug\net5.0\ref\Proyecto.Negocio.dll

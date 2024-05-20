@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Recursos\**" />
+    <EmbeddedResource Remove="Recursos\**" />
+    <None Remove="Recursos\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Clases\BL\" />
+    <Folder Include="Clases\BO\Negocio\" />
+    <Folder Include="Clases\BO\Repositorio\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\3. Datos\Proyecto.Datos\Proyecto.Datos.csproj" />
+    <ProjectReference Include="..\..\4. Interfaces Comunes\Proyecto.IC\Proyecto.IC.csproj" />
+  </ItemGroup>
+
+</Project>

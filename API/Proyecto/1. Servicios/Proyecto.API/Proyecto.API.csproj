@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\Departamento\**" />
+    <Compile Remove="Controllers\Municipio\**" />
+    <Compile Remove="Controllers\Pais\**" />
+    <Compile Remove="Controllers\Usuario\**" />
+    <Content Remove="Controllers\Departamento\**" />
+    <Content Remove="Controllers\Municipio\**" />
+    <Content Remove="Controllers\Pais\**" />
+    <Content Remove="Controllers\Usuario\**" />
+    <EmbeddedResource Remove="Controllers\Departamento\**" />
+    <EmbeddedResource Remove="Controllers\Municipio\**" />
+    <EmbeddedResource Remove="Controllers\Pais\**" />
+    <EmbeddedResource Remove="Controllers\Usuario\**" />
+    <None Remove="Controllers\Departamento\**" />
+    <None Remove="Controllers\Municipio\**" />
+    <None Remove="Controllers\Pais\**" />
+    <None Remove="Controllers\Usuario\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.5" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="8.0.5" NoWarn="NU1605" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Negocio\" />
+    <Folder Include="Models\Repositorio\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\2. Negocio\Proyecto.Negocio\Proyecto.Negocio.csproj" />
+    <ProjectReference Include="..\..\4. Interfaces Comunes\Proyecto.IC\Proyecto.IC.csproj" />
+  </ItemGroup>
+
+</Project>

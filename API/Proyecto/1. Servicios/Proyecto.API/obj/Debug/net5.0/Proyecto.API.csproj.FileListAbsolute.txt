@@ -1,0 +1,592 @@
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.Development.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.exe
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.dev.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\scopedcss\bundle\Proyecto.API.styles.css
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Manifest.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Pack.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.Proyecto.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.RazorTargetAssemblyInfo.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\refint\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.genruntimeconfig.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\ref\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.Development.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.exe
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.dev.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\scopedcss\bundle\Proyecto.API.styles.css
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Manifest.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Pack.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.Proyecto.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.RazorTargetAssemblyInfo.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\refint\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.genruntimeconfig.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\1. Servicios\Proyecto.API\obj\Debug\net5.0\ref\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.Development.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.exe
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.dev.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\scopedcss\bundle\Proyecto.API.styles.css
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Manifest.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Pack.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.Proyecto.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proyecto.API.props
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.RazorTargetAssemblyInfo.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CopyComplete
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\refint\Proyecto.API.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.genruntimeconfig.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\ref\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\refint\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.exe
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.deps.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.dev.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\scopedcss\bundle\Proyecto.API.styles.css
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Pack.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.Proyecto.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Proyecto.API.props
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.API.props
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proyecto.API.props
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.9CB9F740.Up2Date
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.genruntimeconfig.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\obj\Debug\net5.0\ref\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\1. Servicios\Proyecto.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.json
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.exe
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.deps.json
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.json
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.dev.json
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\scopedcss\bundle\Proyecto.API.styles.css
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Pack.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.Proyecto.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Proyecto.API.props
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.API.props
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proyecto.API.props
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.9CB9F740.Up2Date
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\refint\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.genruntimeconfig.cache
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\ref\Proyecto.API.dll
+C:\Users\diego\Desktop\Coink\Coink\API\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.sourcelink.json
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\appsettings.json
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.exe
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.deps.json
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.json
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.runtimeconfig.dev.json
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.API.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Negocio.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\bin\Debug\net5.0\Proyecto.Datos.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.AssemblyInfo.cs
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\scopedcss\bundle\Proyecto.API.styles.css
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\Proyecto.API.StaticWebAssets.Pack.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.Proyecto.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Proyecto.API.props
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.API.props
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proyecto.API.props
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.9CB9F740.Up2Date
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\refint\Proyecto.API.dll
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.pdb
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\Proyecto.API.genruntimeconfig.cache
+C:\Users\diego\Desktop\API - copia\1. Servicios\Proyecto.API\obj\Debug\net5.0\ref\Proyecto.API.dll

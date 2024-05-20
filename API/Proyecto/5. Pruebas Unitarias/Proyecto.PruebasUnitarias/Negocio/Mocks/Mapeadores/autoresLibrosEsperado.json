@@ -1,0 +1,16 @@
+[
+  {
+    "LibroAutorID": "C269D4BC-CD50-4329-A5C6-A82AA2EF1A99",
+    "LibroID": "FF6C337E-5147-4D71-9E89-BDB270B9ED83",
+    "AutorID": "0D7C69ED-F55B-447F-B91A-5807F3151C55",
+    "Titulo": "La Casa de los Espíritus",
+    "Autor": "Isabel Allende"
+  },
+  {
+    "LibroAutorID": "7BB98613-704D-414E-82AB-FA835825E5CF",
+    "LibroID": "6C0802F8-636C-4067-835A-5F1B73F954C4",
+    "AutorID": "0372923A-2C22-4035-B494-02E43213CECB",
+    "Titulo": "Cien Años de Soledad",
+    "Autor": "Gabriel García Márquez"
+  }
+]

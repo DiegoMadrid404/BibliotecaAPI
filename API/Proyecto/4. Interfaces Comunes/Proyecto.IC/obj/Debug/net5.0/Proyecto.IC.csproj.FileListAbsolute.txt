@@ -1,0 +1,103 @@
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsExpresionesRegulares.resources
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsMensajesComunes.resources
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsParametrosAplicacion.resources
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitarios.resources
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitariosTransaccional.resources
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.GenerateResource.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\refint\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\ref\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsExpresionesRegulares.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsMensajesComunes.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsParametrosAplicacion.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitarios.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitariosTransaccional.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.GenerateResource.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\refint\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\nuevaPlantillaBaseDM\plantilla\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\ref\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.deps.json
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.AssemblyReference.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsExpresionesRegulares.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsMensajesComunes.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsParametrosAplicacion.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitarios.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitariosTransaccional.resources
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.GenerateResource.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfoInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfo.cs
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\refint\Proyecto.IC.dll
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.pdb
+D:\REPOSITORIES\RepositoriosBackEnd\FINAL GENERADOR DE DM\CodificadorDM\plantilla\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\ref\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.deps.json
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsMensajesComunes.resources
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitarios.resources
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitariosTransaccional.resources
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\refint\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\v3\Proyecto\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\ref\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.deps.json
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsMensajesComunes.resources
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitarios.resources
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitariosTransaccional.resources
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfo.cs
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\refint\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\ref\Proyecto.IC.dll
+C:\Users\diego\Desktop\Coink\Coink\API\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.sourcelink.json
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.deps.json
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\bin\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsMensajesComunes.resources
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitarios.resources
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.Recursos.rcsUtilitariosTransaccional.resources
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.AssemblyInfo.cs
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.dll
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\refint\Proyecto.IC.dll
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\Proyecto.IC.pdb
+C:\Users\diego\Desktop\API - copia\4. Interfaces Comunes\Proyecto.IC\obj\Debug\net5.0\ref\Proyecto.IC.dll

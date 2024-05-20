@@ -1,0 +1,23 @@
+[
+  {
+    "LibroID": "6C0802F8-636C-4067-835A-5F1B73F954C4",
+    "Titulo": "Cien Años de Soledad",
+    "FechaPublicacion": "1967-05-30",
+    "Genero": "Novela",
+    "ISBN": "9780307474728"
+  },
+  {
+    "LibroID": "D794ADF8-6A9F-4753-970D-67426ED0B6C6",
+    "Titulo": "Rayuela",
+    "FechaPublicacion": "1963-06-28",
+    "Genero": "Novela",
+    "ISBN": "9788497935502"
+  },
+  {
+    "LibroID": "FF6C337E-5147-4D71-9E89-BDB270B9ED83",
+    "Titulo": "La Casa de los Espíritus",
+    "FechaPublicacion": "1982-10-15",
+    "Genero": "Novela",
+    "ISBN": "9780553383805"
+  }
+]
